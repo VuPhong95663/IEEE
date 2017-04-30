@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2bdba909-be84-4e6a-90bc-c432825ad8e0" name="sky" url="http://112.137.129.95">
+        <fileTransfer host="112.137.129.95" port="22" rootFolder="/home/nguyenson" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
